@@ -110,7 +110,7 @@ const quotes=[
     }, {
     "quote": "I am respectful"
     }, {
-    "quote": "Nothing is permanent"
+    "quote": "Nothing is permanent."
     }, 
 ]
 export default quotes
