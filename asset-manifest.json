@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/affirmations/static/css/main.b6f7388b.chunk.css",
+    "main.js": "/affirmations/static/js/main.acb3c7fb.chunk.js",
+    "main.js.map": "/affirmations/static/js/main.acb3c7fb.chunk.js.map",
+    "runtime-main.js": "/affirmations/static/js/runtime-main.30d11a00.js",
+    "runtime-main.js.map": "/affirmations/static/js/runtime-main.30d11a00.js.map",
+    "static/js/2.1eeb5e08.chunk.js": "/affirmations/static/js/2.1eeb5e08.chunk.js",
+    "static/js/2.1eeb5e08.chunk.js.map": "/affirmations/static/js/2.1eeb5e08.chunk.js.map",
+    "static/js/3.35d386e3.chunk.js": "/affirmations/static/js/3.35d386e3.chunk.js",
+    "static/js/3.35d386e3.chunk.js.map": "/affirmations/static/js/3.35d386e3.chunk.js.map",
+    "index.html": "/affirmations/index.html",
+    "static/css/main.b6f7388b.chunk.css.map": "/affirmations/static/css/main.b6f7388b.chunk.css.map",
+    "static/js/2.1eeb5e08.chunk.js.LICENSE.txt": "/affirmations/static/js/2.1eeb5e08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30d11a00.js",
+    "static/js/2.1eeb5e08.chunk.js",
+    "static/css/main.b6f7388b.chunk.css",
+    "static/js/main.acb3c7fb.chunk.js"
+  ]
+}
