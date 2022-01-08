@@ -111,6 +111,8 @@ const quotes=[
     "quote": "I am respectful"
     }, {
     "quote": "Nothing is permanent."
+    }, {
+    "quote": "I take time to be grateful."
     }, 
 ]
 export default quotes
